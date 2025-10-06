@@ -1,11 +1,5 @@
 <h1 align="center"> ft_printf</h1>
 
-<p align="center">
-  <b>42 Lisboa Project</b> | Reimplementation of the <code>printf()</code> function in C  
-  <br>
-  <i>Developed by André Bordalo (@antabord1806)</i>
-</p>
-
 <div style="height: 40px;"></div>
 
 ---
