@@ -10,7 +10,6 @@ The goal of this project is to recreate the <code>printf()</code> function from 
 ✅ Recreate part of the original <code>printf</code> behavior.  
 ✅ Work with **variadic functions** (<code>va_list</code>, <code>va_start</code>, <code>va_arg</code>, <code>va_end</code>).  
 ✅ Implement **formatting for strings, integers, hexadecimals, and pointers**.  
-✅ Ensure **memory safety** and **clean, readable code**.  
 
 
 
@@ -21,7 +20,7 @@ The goal of this project is to recreate the <code>printf()</code> function from 
 | `%c` | Character |
 | `%s` | String |
 | `%p` | Pointer (address in hexadecimal) |
-| `%d` / `%i` | Signed integer |
+| `%d` / `%i` | Integer |
 | `%u` | Unsigned integer |
 | `%x` / `%X` | Hexadecimal integer (lowercase / uppercase) |
 | `%%` | Prints a literal `%` symbol |
